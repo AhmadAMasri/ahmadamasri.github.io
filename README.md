@@ -1,2 +1,1 @@
-# ahmadamasri.github.io
-My school project
+Website for my school homework
